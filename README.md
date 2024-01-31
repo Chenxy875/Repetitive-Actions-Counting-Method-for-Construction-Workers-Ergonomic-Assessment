@@ -6,7 +6,9 @@ Example of Ergonomic assessment for construction worker：
 
 1.
 
-https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessment/assets/121841006/61cc3288-da5c-4f4f-9f94-4d3ab1e7af7d
+https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessment/assets/121841006/30adf373-aeea-44df-88bc-34645f2b04ae
+
+
 
 2.
 
@@ -24,5 +26,6 @@ Dataset：
 Repetitive-Actions-Counting-Results：
 
 ![Picture5](https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessment/assets/121841006/0ae1a37d-5782-48a5-9f8f-03a617dbf1b8)
+
 
 

@@ -3,8 +3,11 @@ https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction
 
 Example of Ergonomic assessment for construction worker：
 1.
-https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessment/assets/121841006/a9d64210-12dd-4a50-b52a-0aa46226f160
-![tsm](https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessment/assets/121841006/7a362a11-8d61-41d1-98b6-be9730dd7767)
+
+
+
+
+https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessment/assets/121841006/98b09c45-ab1f-425e-9164-55a02e65c724
 
 
 
@@ -12,7 +15,9 @@ https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction
 
 2.
 
-https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessment/assets/121841006/ecd31537-9adb-4714-a27c-a45b9d69bbbb
+
+https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessment/assets/121841006/c7d58258-5f32-4fa8-a213-cf69cb8ead93
+
 
 
 

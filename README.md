@@ -37,5 +37,4 @@ Repetitive-Actions-Counting-Results：
 
 
 
-![2](https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessment/assets/121841006/7822d4eb-4448-40c5-8cce-7335be48ed0e)
-![Picture5](https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessment/assets/121841006/aa2a8b7b-43be-408b-8a91-aef84868fd69)
+

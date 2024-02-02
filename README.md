@@ -23,6 +23,10 @@ https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction
 
 
 
+https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessment/assets/121841006/3ca8dd3c-3323-44fe-8805-6db562433c06
+
+
+
 
 
 
